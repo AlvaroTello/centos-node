@@ -1,2 +1,2 @@
 # centos-node
-Docker image from Ubuntu 22.04 &amp; Node JS v14
+Docker image from CentOS 8 &amp; Node JS v14
